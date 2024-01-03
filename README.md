@@ -88,4 +88,24 @@ python application.py
 ## for prediction go to 
 http://127.0.0.1:8080/
 
-The project should run now in your local pc. 
+## Now Lets See the Output:
+![image](https://github.com/MasteriNeuron/Cement-Strength-Prediction/assets/127201746/dfd85ca1-d276-4d98-bf40-b4dfefda601c)
+
+## There are Three Button 1. Train Our model 2.Prediction  3. Bulk Prediction
+
+# first Click on  Train Our model Button 
+- it will train the model.
+
+## Prediction:
+![image](https://github.com/MasteriNeuron/Cement-Strength-Prediction/assets/127201746/ab7369af-9493-404b-9f1f-b9aaed166e36)
+![image](https://github.com/MasteriNeuron/Cement-Strength-Prediction/assets/127201746/c102dcad-5d6a-4e47-8de9-5cce80a496e3)
+
+## Bulk Prediction:
+-select the Csv File first then Click on Lets Predict:
+![image](https://github.com/MasteriNeuron/Cement-Strength-Prediction/assets/127201746/88500bdf-6088-4bf8-95c2-a54d4450c6d0)
+
+on clicking on that , it will give a predicted.csv file as output.
+
+# HURRAY !! ITS DONE;
+
+# Now Say To Thank You To Me .😂😂😂😂
